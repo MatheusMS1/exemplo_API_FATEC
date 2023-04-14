@@ -1,0 +1,23 @@
+{
+  "name": "exemplo_api_fatec",
+  "version": "1.0.0",
+  "description": "Exemplo de uma API desenvolvida na aula de programação Web - 4 Semestre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMS1/exemplo_API_FATEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMS1/exemplo_API_FATEC/issues"
+  },
+  "homepage": "https://github.com/MatheusMS1/exemplo_API_FATEC#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
